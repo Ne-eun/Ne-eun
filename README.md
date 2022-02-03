@@ -18,7 +18,7 @@
 *** 
 <div align="center">
   <p></p>
-<a align="center" href="https://teraaa.notion.site/TERA-4dc2b379f7e749599c159758313e718d">
-  <img src="https://img.shields.io/badge/이력서-resume-%23C61C3E?style=flat-square&logo=Read the Docs&logoColor=2361DAFB&labelColor=282828" />
-</a>
+  <a align="center" href="https://teraaa.notion.site/TERA-4dc2b379f7e749599c159758313e718d">
+    <img src="https://img.shields.io/badge/이력서-Resume-%23C61C3E?style=for-the-badge&logo=Read the Docs&logoColor=2361DAFB&labelColor=282828" />
+  </a>
 </div>
