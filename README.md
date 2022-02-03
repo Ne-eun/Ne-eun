@@ -11,7 +11,7 @@
 
 <div align="center">
   <p></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ne-eun&show_icons=true&theme=shades-of-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ne-eun&layout=compact&show_icons=true&theme=shades-of-purple" />
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne-eun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
