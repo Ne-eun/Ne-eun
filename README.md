@@ -15,3 +15,10 @@
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne-eun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+*** 
+<div align="center">
+  <p></p>
+<a align="center" href="https://teraaa.notion.site/TERA-4dc2b379f7e749599c159758313e718d">
+  <img src="https://img.shields.io/badge/이력서-resume-%23C61C3E?style=flat-square&logo=Read the Docs&logoColor=2361DAFB&labelColor=282828" />
+</a>
+</div>
