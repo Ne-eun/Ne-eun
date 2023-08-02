@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=2361DAFB&labelColor=282828" />
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=2361DAFB&labelColor=282828" />
   <img src="https://img.shields.io/badge/-SCSS-%23CC6699?style=flat-square&logo=Sass&logoColor=2361DAFB&labelColor=282828" />
-  <img src="https://img.shields.io/badge/-Nextjs-%23CC6699?style=flat-square&logo=nextdotjs&logoColor=2361DAFB&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Nextjs-%2300000?style=flat-square&logo=nextdotjs&logoColor=2361DAFB&labelColor=282828" />
 </div>
 
 <div align="center">
