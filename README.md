@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&height=200&section=header&text=TERA&desc=Park-Ne-eun&descAlign=56&fontSize=90&animation=twinkling" />
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&height=200&section=header&text=TERA&desc=Park-Ne-eun&descAlign=56&fontSize=90&animation=twinkling" />
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=2361DAFB&labelColor=282828" />
   <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=2361DAFB&labelColor=282828" />
