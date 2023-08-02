@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonaws&logoColor=2361DAFB&labelColor=282828" />
   <img src="https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=2361DAFB&labelColor=282828" />
+  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=2361DAFB&labelColor=282828" />
 </div>
 <div align="center">
   <p></p>
