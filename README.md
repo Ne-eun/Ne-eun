@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=2361DAFB&labelColor=282828" />
   <img src="https://img.shields.io/badge/-SCSS-%23CC6699?style=flat-square&logo=Sass&logoColor=2361DAFB&labelColor=282828" />
   <img src="https://img.shields.io/badge/-Nextjs-%23000000?style=flat-square&logo=nextdotjs&logoColor=2361DAFB&labelColor=282828" />
+  <img src="https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonaws&logoColor=2361DAFB&labelColor=282828" />
 </div>
 
 <div align="center">
