@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=282828" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=282828"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=150458&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=FF4438&labelColor=282828"/>
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne-eun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
